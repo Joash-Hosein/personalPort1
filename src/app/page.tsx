@@ -18,7 +18,7 @@ export default function Home() {
         {/* About Card */}
         <div className="bg-white/20 backdrop-blur-md rounded-2xl p-8 shadow-xl border border-white/30">
           <div className="flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:space-x-8">
-            <div className="flex-shrink-0">
+            <div className="shrink-0">
               <Image
                 src="/me.jpg"
                 alt="Self Pic"
