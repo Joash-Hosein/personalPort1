@@ -21,8 +21,8 @@ const page = () => {
             <li>Laptop Cleaning - $125 - $150 for extra dirty machines</li>
             <li>Desktop Cleaning - $150 - $200 for extra dirty machines</li>
             <li>Thermal repasting - $75</li>
-            <li>Computer Building - $150 all form factors - +$20 for AIO installation</li>
-            <li>Diagnostic repairs will vary in Price depending on repair. Diagnostic Check is $50 entry fee.</li>
+            <li>Computer Building - $150 all form factors - +$30 for AIO installation</li>
+            <li>Diagnostic repairs will vary in Price depending on repair. Diagnostic Check is $75 entry fee.</li>
             <li>Consulting is FREE for short calls and emails. Meetings can be scheduled at $75 for 60 minutes.</li>
           </ul>
           <p className="text-slate-700 dark:text-slate-200">
@@ -35,11 +35,11 @@ const page = () => {
           <h2 className="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Web and App Development</h2>
           <p className="text-lg text-slate-700 dark:text-slate-200 mb-4">
             Initial meeting is FREE. In this meeting we would discuss your current system and I would offer a timeline on how a project can develop.
-            This meeting typically would be 1 hr long. Any meetings after this are $50 dollars per meeting unless contracted.
+            This meeting typically would be 45 minutes maximum. Any meetings after this are $75 dollars per hour unless contracted.
           </p>
           <div className="space-y-3 text-slate-700 dark:text-slate-200">
-            <p><strong>Web Development:</strong> can range between $2000 - $4000 overall.</p>
-            <p><strong>App Development:</strong> can range between $3000 - $6000 overall.</p>
+            <p><strong>Web Development:</strong> starts at a flat rate of 3500 per month with costs additive to features requested.</p>
+            <p><strong>App Development:</strong> starts at a flat rate 5000 per month with costs additive to features requested.</p>
             <p>This fully includes a production model, fully tested and polished including styling tailored by your directive.</p>
           </div>
         </div>
